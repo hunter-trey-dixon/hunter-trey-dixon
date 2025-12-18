@@ -1,4 +1,4 @@
 # About me
 
 Welcome to my GitHub profile. 
-I graduated with a B.S. in chemical engineering from the University of Louisiana at Lafayette in 2017 and a B.S. in computer science from Louisiana State University of Alexandria in 2025. I plan on pursuing a M.S. in computer science at Louisiana State University in 2026.
+I am an engineer at heart with a unique dual background: a recent B.S. in Computer Science (Summa Cum Laude) and a previous degree in Chemical Engineering (Magna Cum Laude). I am currently dedicating my time to independently learning C++, Linux, and Machine Learning to support my interest in Computational Perception and Embedded Systems.
